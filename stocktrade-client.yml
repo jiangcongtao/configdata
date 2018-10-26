@@ -1,2 +1,5 @@
 ---
-symbol: HON
+companies:
+  Honeywell: HON
+  Microsoft: MSFT
+    
